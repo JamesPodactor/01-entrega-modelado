@@ -2,7 +2,7 @@
 
 ## caso básico
 
-![imagen](./content/pantallazo.pdf)
+![imagen](./content/pantallazo.jpg)
 
 
 He creado tres colecciones para completar los requerimientos del modelado inicial: curso, temática y autor. Dicha división
